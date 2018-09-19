@@ -3,7 +3,7 @@
 Package is in the following URL: 
 <br/>https://drive.google.com/file/d/1ElvNHiBGxBNjUW13aQ8DfB4Vvc5dG9nB/view?usp=sharing
 
-How to play the game ?  <br/>
+How to play the game ?  <br/><br/>
 R -> 甩竿    <br/> 
 滑鼠右鍵點擊海中任一處 -> 選擇地方開始釣魚<br/>
 連擊空白鍵 -> 加速魚上鉤<br/>
